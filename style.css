@@ -1,0 +1,232 @@
+html{
+    font-family: 'Rubik', sans-serif;
+    background-color: #0D1323;
+}
+
+#work, #play, #study, #exercise, #social, #selfCare{
+    background-color: #1D204B;
+    width: 200px;
+    height: 150px;
+    color: white;
+    border: transparent 10px #0D1323;
+    padding: 5px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#author{
+    background-color: #5746EA;
+    width: 220px;
+    height: 280px;
+    color: white;
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    border-radius: 20px;
+}
+
+
+#work{
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}    
+
+#trabalho{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 40%;
+    top: 15%;
+    background-color: hsl(15, 100%, 70%);
+    padding: 5px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#img-work{
+    position: relative;
+    left: 70%;
+    top: -3%;
+}
+
+#play{
+    position: absolute;
+    left: 58%;
+    top: 20%;    
+}
+
+#jogar{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 58%;
+    top: 15%;
+    background-color: hsl(195, 74%, 62%);
+    padding: 5px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#img-play{
+    position: relative;
+    left: 70%;
+    top: -3%;
+}
+
+#study{
+    position: absolute;
+    left: 76%;
+    top: 20%;   
+}
+
+#estudar{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 76%;
+    top: 15%;
+    background-color: hsl(348, 100%, 68%);
+    padding: 5px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#img-study{
+    position: relative;
+    left: 70%;
+    top: -3%;
+}
+
+#exercise{
+    position: absolute;
+    left: 40%;
+    top: 52%;    
+}
+
+#exercicio{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 40%;
+    top: 47%;
+    background-color: hsl(145, 58%, 55%);
+    padding: 5px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#img-exercise{
+    position: relative;
+    left: 70%;
+    top: -3%;
+}
+
+#social{
+    position: absolute;
+    left: 58%;
+    top: 52%;    
+}
+
+#sociale{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 58%;
+    top: 47%;
+    background-color: hsl(264, 64%, 52%);
+    padding: 5px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#img-social{
+    position: relative;
+    left: 70%;
+    top: -5%;
+}
+
+#selfCare{
+    position: absolute;
+    left: 76%;
+    top: 52%;   
+}
+
+#cuidado-proprio{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 76%;
+    top: 47%;
+    background-color: hsl(43, 84%, 65%);
+    padding: 5px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#img-self-care{
+    position: relative;
+    left: 70%;
+    top: -3%;
+}
+
+.horas{
+    font-size: 40px;
+    position: relative;
+    top: -15%;
+}
+
+.week{
+    position: relative;
+    top: -35%;
+    font-size: 12px;
+    color: hsl(236, 100%, 87%);
+}
+
+#descripition{
+    font-size: 12px;
+    color: hsl(236, 100%, 87%);
+    position: relative;
+    top: 15%;
+    left: 14%;
+}
+
+#autor{
+    position: relative;
+    top: 10%;
+    left: -10%;
+}
+
+#profile{
+    width: 70px;
+    position: relative;
+    top: 10%;
+    left: 14%;
+}
+
+#period{
+    background-color: #1D204B;
+    width: 183px;
+    height: 300px;
+    border-radius: 20px;
+    position: relative;
+    left: 19.75%;
+    top: 180px;
+    padding-left: 35px;
+}
+
+#dayly{
+    position: relative;
+    top: 65%;
+}
+
+#semana{
+    position: relative;
+    top: 65%;
+    font-weight: 900;
+}
+
+#mes{
+    position: relative;
+    top: 65%;
+}
